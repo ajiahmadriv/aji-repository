@@ -5,5 +5,7 @@ $
 !
 row 2 test branching
 row 3 test branching
+tambah rownya gan
+!
 row selanjutnya
 row baru dari branch 1
