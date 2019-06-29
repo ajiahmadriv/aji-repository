@@ -1,6 +1,8 @@
 row 1 test branching
 $
 #
+^
 row 2 test branching
 row 3 test branching
 row selanjutnya
+row baru dari branch 1
