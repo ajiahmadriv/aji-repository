@@ -1,6 +1,9 @@
 row 1 test branching
 $
 #
-row 2 test branching
+@
+#
 row 3 test branching
+tambah rownya gan
+!
 row selanjutnya
